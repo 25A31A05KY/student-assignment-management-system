@@ -1,0 +1,28 @@
+Step 1: Start
+Step 2: Initialize empty assignment list
+Step 3: Set assignment ID counter = 1
+
+Step 4: Repeat
+    Step 4.1: Display menu
+        1. Add Assignment
+        2. View Assignments
+        3. Submit Assignment
+        4. Delete Assignment
+        5. Exit
+
+    Step 4.2: Read user choice
+
+    Step 4.3: If choice == 1
+                Call Add Assignment
+              Else if choice == 2
+                Call View Assignments
+              Else if choice == 3
+                Call Submit Assignment
+              Else if choice == 4
+                Call Delete Assignment
+              Else if choice == 5
+                Exit loop
+              Else
+                Print "Invalid Choice"
+
+Step 5: Stop

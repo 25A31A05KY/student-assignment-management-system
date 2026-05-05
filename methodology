@@ -1,0 +1,9 @@
+Adopted an iterative development approach to build the system step by step.
+Analyzed requirements to identify key users (students and teachers) and core features.
+Designed the system using structures and vectors in C++ for efficient data handling.
+Divided the system into modules: assignment creation, submission, and grading.
+Implemented functionality using functions, loops, and conditional statements.
+Tested each module individually (unit testing) and together (integration testing).
+Ensured proper handling of user inputs and errors.
+Compiled and executed the program in a console-based environment.
+Designed the system to be simple, modular, and extendable for future improvements.

@@ -1,6 +1,8 @@
 # student-assignment-management-system
 Step 1: Start
+
 Step 2: Initialize empty assignment list
+
 Step 3: Set assignment ID counter = 1
 
 Step 4: Repeat

@@ -1,0 +1,14 @@
+START
+   |
+Display Menu
+   |
+User Choice?
+   |----1 → Add Assignment
+   |----2 → View Assignments
+   |----3 → Submit Assignment
+   |----4 → Delete Assignment
+   |----5 → Exit
+   |
+Repeat until Exit
+   |
+END
